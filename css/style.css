@@ -1,0 +1,39 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+    background-color: #f1f1f1;
+}
+
+.quem-sou {
+    background-color: #0C0200;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.h3 {
+    color: #f1f1f1;
+}
+
+.h4 {
+    color: #f1f1f1;
+    padding-bottom: 50px;
+}
+
+.portifolio {
+    background-color: #150D0B;
+}
+
+.img_logo {
+    border-radius: 50%;
+    width: 100%;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
